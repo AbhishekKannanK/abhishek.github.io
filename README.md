@@ -56,7 +56,7 @@
         <div class="description">
             <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec nisi ac urna luctus viverra.</p>
         </div>
-    </div>
+    </div> 
 
     <div class="experience column">
         <h2 class="section-title">Experience</h2>
